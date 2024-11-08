@@ -1,0 +1,16 @@
+{
+  "name": "ongoing-project-speech-to-text",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cheapundies/responsive-voice": "^1.5.7"
+  }
+}
